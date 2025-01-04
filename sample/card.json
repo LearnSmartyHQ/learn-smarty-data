@@ -1,0 +1,114 @@
+{
+  "id": 1,
+  "slug": "abandon",
+  "subcategory": "Lesson 1",
+  "front": "Abandon",
+  "back": "To give up completely; to desert",
+  "difficulty": "Easy",
+  "createdAt": "2024-09-07T12:00:00Z",
+  "usedIn": ["504", "450"],
+  "cambridge": {
+    "pronunciations": {
+      "uk": ["/əˈbæn.dən/"],
+      "us": ["/əˈbæn.dən/"]
+    },
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "code": ["verb", "[T]"],
+        "context": "LEAVE",
+        "definition": "To leave a place, thing, or person, usually forever.",
+        "examples": [
+          "We had to abandon the car.",
+          "By the time the rebel troops arrived, the village had already been abandoned.",
+          "As a baby, he was abandoned by his mother.",
+          "Abandon ship! We were sinking fast, and the captain gave the order to abandon ship."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "level": "B2"
+      },
+      {
+        "partOfSpeech": "verb",
+        "code": ["verb", "[T]"],
+        "context": "STOP",
+        "definition": "To stop doing an activity before you have finished it.",
+        "examples": [
+          "The game was abandoned at half-time because of the poor weather conditions.",
+          "They had to abandon their attempt to climb the mountain.",
+          "The party has now abandoned its policy of unilateral disarmament."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "level": "C1"
+      }
+    ],
+    "idioms": [
+      {
+        "idiom": "abandon ship",
+        "definition": "To leave a ship because it is sinking or in danger.",
+        "examples": ["The captain gave the order to abandon ship."]
+      }
+    ]
+  },
+  "oxford": {
+    "pronunciations": {
+      "uk": ["/əˈbændən/"],
+      "us": ["/əˈbændən/"]
+    },
+    "verbForms": {
+      "presentSimple": {
+        "iYouWeThey": "abandon",
+        "heSheIt": "abandons"
+      },
+      "pastSimple": "abandoned",
+      "pastParticiple": "abandoned",
+      "ingForm": "abandoning"
+    },
+    "level": "B2",
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To leave somebody, especially somebody you are responsible for, with no intention of returning.",
+        "examples": [
+          "The baby had been abandoned by its mother.",
+          "People often simply abandon their pets when they go abroad."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "collocations": {
+          "adverb": ["hastily"],
+          "phrases": [
+            "abandon somebody to their fate",
+            "be left abandoned",
+            "be found abandoned"
+          ]
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To stop doing something, especially before it is finished; to stop having something.",
+        "examples": [
+          "They abandoned the match because of rain.",
+          "She abandoned hope of any reconciliation.",
+          "We had to abandon any further attempt at negotiation."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "collocations": {
+          "adverb": ["altogether", "completely", "entirely"],
+          "verbPlusAbandon": ["be forced to", "have to", "decide to"],
+          "prepositions": ["for", "in favour of"]
+        }
+      }
+    ],
+    "wordOrigin": "Late Middle English: from Old French abandoner, from a- (from Latin ad ‘to, at’) + bandon ‘control’.",
+    "idioms": [
+      {
+        "idiom": "abandon ship",
+        "definition": "To leave a ship because it is sinking.",
+        "examples": ["The captain gave the order to abandon ship."]
+      }
+    ]
+  }
+}

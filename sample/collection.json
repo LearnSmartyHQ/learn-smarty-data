@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "title": "Sample Collection",
+  "slug": "sample",
+  "subject": "English",
+  "category": "Vocabulary",
+  "description": "A collection of sample cards for testing purposes.",
+  "difficulty": "Intermediate",
+  "totalCards": 25,
+  "status": "published",
+  "createdAt": "2025-01-04T22:24:00Z"
+}

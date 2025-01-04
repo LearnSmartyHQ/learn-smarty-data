@@ -1,0 +1,164 @@
+{
+  "id": 2,
+  "title": "450 Common Words",
+  "slug": "450",
+  "subject": "English Vocabulary",
+  "category": "Vocabulary",
+  "description": "A collection of 450 common English words to improve basic language skills.",
+  "difficulty": "Beginner",
+  "totalCards": 450,
+  "status": "published",
+  "createdAt": "2024-09-07T12:00:00Z",
+  "cards": [
+    {
+      "id": 1001,
+      "slug": "run",
+      "subcategory": "Lesson 1",
+      "front": "Run",
+      "back": "Move at a speed faster than a walk",
+      "difficulty": "Easy",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["450"]
+    },
+    {
+      "id": 1002,
+      "slug": "jump",
+      "subcategory": "Lesson 1",
+      "front": "Jump",
+      "back": "Push oneself off a surface and into the air by using the muscles in one's legs and feet",
+      "difficulty": "Easy",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["450"]
+    },
+    {
+      "id": 1003,
+      "slug": "sit",
+      "subcategory": "Lesson 1",
+      "front": "Sit",
+      "back": "Adopt a position in which one's weight is supported by one's buttocks rather than one's feet",
+      "difficulty": "Beginner",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["450"]
+    },
+    {
+      "id": 1004,
+      "slug": "stand",
+      "subcategory": "Lesson 1",
+      "front": "Stand",
+      "back": "Be in an upright position on one's feet",
+      "difficulty": "Beginner",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["450"]
+    },
+    {
+      "id": 1005,
+      "slug": "walk",
+      "subcategory": "Lesson 1",
+      "front": "Walk",
+      "back": "Move at a regular pace by lifting and setting down each foot in turn",
+      "difficulty": "Beginner",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["450"]
+    },
+    {
+      "id": 1006,
+      "slug": "talk",
+      "subcategory": "Lesson 1",
+      "front": "Talk",
+      "back": "Speak in order to give information or express ideas",
+      "difficulty": "Beginner",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["450"]
+    },
+    {
+      "id": 1007,
+      "slug": "listen",
+      "subcategory": "Lesson 2",
+      "front": "Listen",
+      "back": "Give one's attention to a sound",
+      "difficulty": "Easy",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["450"]
+    },
+    {
+      "id": 1008,
+      "slug": "read",
+      "subcategory": "Lesson 2",
+      "front": "Read",
+      "back": "Look at and comprehend the meaning of written or printed matter",
+      "difficulty": "Easy",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["450"]
+    },
+    {
+      "id": 1009,
+      "slug": "write",
+      "subcategory": "Lesson 2",
+      "front": "Write",
+      "back": "Mark letters, words, or symbols on a surface, typically paper",
+      "difficulty": "Easy",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["450"]
+    },
+    {
+      "id": 1010,
+      "slug": "eat",
+      "subcategory": "Lesson 2",
+      "front": "Eat",
+      "back": "Put food into the mouth and chew and swallow it",
+      "difficulty": "Beginner",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["450"]
+    },
+    {
+      "id": 1011,
+      "slug": "drink",
+      "subcategory": "Lesson 2",
+      "front": "Drink",
+      "back": "Take (a liquid) into the mouth and swallow",
+      "difficulty": "Easy",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["450"]
+    },
+    {
+      "id": 1012,
+      "slug": "sleep",
+      "subcategory": "Lesson 2",
+      "front": "Sleep",
+      "back": "Be in a state of rest, with eyes closed and body inactive",
+      "difficulty": "Easy",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["450"]
+    },
+    {
+      "id": 1013,
+      "slug": "learn",
+      "subcategory": "Lesson 3",
+      "front": "Learn",
+      "back": "Gain knowledge or skills by studying or experience",
+      "difficulty": "Beginner",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["450"]
+    },
+    {
+      "id": 1014,
+      "slug": "teach",
+      "subcategory": "Lesson 3",
+      "front": "Teach",
+      "back": "Give instruction to someone in a subject or skill",
+      "difficulty": "Easy",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["450"]
+    },
+    {
+      "id": 1015,
+      "slug": "play",
+      "subcategory": "Lesson 3",
+      "front": "Play",
+      "back": "Engage in activity for enjoyment and recreation",
+      "difficulty": "Easy",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["450"]
+    }
+  ]
+}

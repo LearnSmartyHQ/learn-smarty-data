@@ -1,0 +1,134 @@
+{
+  "id": 3,
+  "title": "GRE Vocabulary",
+  "slug": "gre",
+  "subject": "English Vocabulary",
+  "category": "Vocabulary",
+  "description": "A collection of advanced vocabulary words commonly found in the GRE exam.",
+  "difficulty": "Advanced",
+  "totalCards": 1000,
+  "status": "published",
+  "createdAt": "2024-09-07T12:00:00Z",
+  "cards": [
+    {
+      "id": 10001,
+      "slug": "aberrant",
+      "subcategory": "Lesson 1",
+      "front": "Aberrant",
+      "back": "Deviating from the norm",
+      "difficulty": "Advanced",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["gre"]
+    },
+    {
+      "id": 10002,
+      "slug": "abscond",
+      "subcategory": "Lesson 1",
+      "front": "Abscond",
+      "back": "To leave hurriedly and secretly, typically to avoid detection or arrest",
+      "difficulty": "Advanced",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["gre"]
+    },
+    {
+      "id": 10003,
+      "slug": "adulterate",
+      "subcategory": "Lesson 1",
+      "front": "Adulterate",
+      "back": "To corrupt or make impure",
+      "difficulty": "Advanced",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["gre"]
+    },
+    {
+      "id": 10004,
+      "slug": "advocate",
+      "subcategory": "Lesson 1",
+      "front": "Advocate",
+      "back": "To speak in favor of",
+      "difficulty": "Advanced",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["gre"]
+    },
+    {
+      "id": 10005,
+      "slug": "aesthetic",
+      "subcategory": "Lesson 1",
+      "front": "Aesthetic",
+      "back": "Concerned with beauty or the appreciation of beauty",
+      "difficulty": "Advanced",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["gre"]
+    },
+    {
+      "id": 10006,
+      "slug": "aggrandize",
+      "subcategory": "Lesson 1",
+      "front": "Aggrandize",
+      "back": "To increase in power, influence, and reputation",
+      "difficulty": "Advanced",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["gre"]
+    },
+    {
+      "id": 10007,
+      "slug": "alacrity",
+      "subcategory": "Lesson 2",
+      "front": "Alacrity",
+      "back": "Brisk and cheerful readiness",
+      "difficulty": "Advanced",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["gre"]
+    },
+    {
+      "id": 10008,
+      "slug": "ameliorate",
+      "subcategory": "Lesson 2",
+      "front": "Ameliorate",
+      "back": "To make something better or more tolerable",
+      "difficulty": "Advanced",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["gre"]
+    },
+    {
+      "id": 10009,
+      "slug": "anachronism",
+      "subcategory": "Lesson 2",
+      "front": "Anachronism",
+      "back": "Something out of place in time",
+      "difficulty": "Advanced",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["gre"]
+    },
+    {
+      "id": 10010,
+      "slug": "anomaly",
+      "subcategory": "Lesson 2",
+      "front": "Anomaly",
+      "back": "Deviation from what is normal",
+      "difficulty": "Advanced",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["gre"]
+    },
+    {
+      "id": 10011,
+      "slug": "antipathy",
+      "subcategory": "Lesson 2",
+      "front": "Antipathy",
+      "back": "Strong dislike",
+      "difficulty": "Advanced",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["gre"]
+    },
+    {
+      "id": 10012,
+      "slug": "apathy",
+      "subcategory": "Lesson 2",
+      "front": "Apathy",
+      "back": "Lack of interest, enthusiasm, or concern",
+      "difficulty": "Advanced",
+      "createdAt": "2024-09-07T12:00:00Z",
+      "usedIn": ["gre"]
+    }
+  ]
+}
